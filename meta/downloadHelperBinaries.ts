@@ -18,7 +18,7 @@ const RELEASE_TAGS = {
   legendary: '0.20.37',
   gogdl: 'v1.1.2',
   nile: 'v1.1.2',
-  comet: 'v0.3.0',
+  comet: 'v0.3.1',
   'epic-integration': 'v0.3'
 } as const satisfies Record<DownloadedBinary, string>
 
